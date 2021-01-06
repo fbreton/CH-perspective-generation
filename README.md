@@ -22,6 +22,7 @@ aws tags;azure tags;key;Application;Operational Customer;Billed Customer
 atemi-id,ATEMI;atemi,ATEMI;5062;PDT MOTRICE;VOYAGES;DSI VOYAGES
 atemi-id,ATEMI;atemi,ATEMI;4939;ORME;GARES ET CONNEXIONS;DSI G&C
 atemi-id,ATEMI;atemi,ATEMI;4960;RESERVATION;GARES ET CONNEXIONS;DSI VOYAGES
+
 Running the script on this sample will create 3 perspectives:
 
 Application
